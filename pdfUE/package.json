@@ -1,0 +1,15 @@
+{
+  "name": "unusual-expedition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "adminconfig.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "url2pdf": "^0.4.7",
+    "wkhtmltopdf": "^0.3.3"
+  }
+}
