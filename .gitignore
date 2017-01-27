@@ -1,0 +1,5 @@
+
+.DS_Store
+.idea/
+server/pdfs/
+*package.tar.gz
